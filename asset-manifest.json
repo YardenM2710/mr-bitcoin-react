@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YardenM2710/mr-bitcoin-react.git/static/css/main.b81a2f89.css",
-    "main.js": "/YardenM2710/mr-bitcoin-react.git/static/js/main.ba6b3517.js",
-    "static/js/787.542f81e0.chunk.js": "/YardenM2710/mr-bitcoin-react.git/static/js/787.542f81e0.chunk.js",
-    "index.html": "/YardenM2710/mr-bitcoin-react.git/index.html",
-    "main.b81a2f89.css.map": "/YardenM2710/mr-bitcoin-react.git/static/css/main.b81a2f89.css.map",
-    "main.ba6b3517.js.map": "/YardenM2710/mr-bitcoin-react.git/static/js/main.ba6b3517.js.map",
-    "787.542f81e0.chunk.js.map": "/YardenM2710/mr-bitcoin-react.git/static/js/787.542f81e0.chunk.js.map"
+    "main.css": "/mr-bitcoin-react/static/css/main.b81a2f89.css",
+    "main.js": "/mr-bitcoin-react/static/js/main.1ffb2125.js",
+    "static/js/787.542f81e0.chunk.js": "/mr-bitcoin-react/static/js/787.542f81e0.chunk.js",
+    "index.html": "/mr-bitcoin-react/index.html",
+    "main.b81a2f89.css.map": "/mr-bitcoin-react/static/css/main.b81a2f89.css.map",
+    "main.1ffb2125.js.map": "/mr-bitcoin-react/static/js/main.1ffb2125.js.map",
+    "787.542f81e0.chunk.js.map": "/mr-bitcoin-react/static/js/787.542f81e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81a2f89.css",
-    "static/js/main.ba6b3517.js"
+    "static/js/main.1ffb2125.js"
   ]
 }

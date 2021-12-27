@@ -1,5 +1,5 @@
 {
-  "short_name": "mr-bitcoin",
+  "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -18,9 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./index.htm",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "prefer_related_applications": false
+  "background_color": "#ffffff"
 }
