@@ -1,16 +1,24 @@
 {
   "files": {
     "main.css": "/mr-bitcoin-react/static/css/main.0721eadf.css",
-    "main.js": "/mr-bitcoin-react/static/js/main.87cc4744.js",
+    "main.js": "/mr-bitcoin-react/static/js/main.28612b52.js",
     "static/js/787.542f81e0.chunk.js": "/mr-bitcoin-react/static/js/787.542f81e0.chunk.js",
     "static/media/bitcoin.png": "/mr-bitcoin-react/static/media/bitcoin.7f9e5e703a51754df4db.png",
+    "static/media/user-4.png": "/mr-bitcoin-react/static/media/user-4.16b496f15b4a9f3247a9.png",
+    "static/media/user-7.png": "/mr-bitcoin-react/static/media/user-7.0db09cb7580540d5ecf2.png",
+    "static/media/new-user.png": "/mr-bitcoin-react/static/media/new-user.dca04956d4e24b6846be.png",
+    "static/media/user-2.png": "/mr-bitcoin-react/static/media/user-2.7b39abfec199ca513468.png",
+    "static/media/user-6.png": "/mr-bitcoin-react/static/media/user-6.b633e384c90cb4dca4ef.png",
+    "static/media/user-3.png": "/mr-bitcoin-react/static/media/user-3.d6a3ba8cea6686ad9f5d.png",
+    "static/media/user-5.png": "/mr-bitcoin-react/static/media/user-5.0c4b7967ee6b0fab45d6.png",
+    "static/media/user-1.png": "/mr-bitcoin-react/static/media/user-1.7545602f33b28f1509cb.png",
     "index.html": "/mr-bitcoin-react/index.html",
     "main.0721eadf.css.map": "/mr-bitcoin-react/static/css/main.0721eadf.css.map",
-    "main.87cc4744.js.map": "/mr-bitcoin-react/static/js/main.87cc4744.js.map",
+    "main.28612b52.js.map": "/mr-bitcoin-react/static/js/main.28612b52.js.map",
     "787.542f81e0.chunk.js.map": "/mr-bitcoin-react/static/js/787.542f81e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0721eadf.css",
-    "static/js/main.87cc4744.js"
+    "static/js/main.28612b52.js"
   ]
 }
